@@ -1,0 +1,15 @@
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.AssemblyInfoInputs.cache
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.AssemblyInfo.cs
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.exe
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.deps.json
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.runtimeconfig.json
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.runtimeconfig.dev.json
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.dll
+C:\Users\aliha\source\repos\Task-1\Task-1\bin\Debug\net5.0\Pharmacy.pdb
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.dll
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\refint\Pharmacy.dll
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.pdb
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\Pharmacy.genruntimeconfig.cache
+C:\Users\aliha\source\repos\Task-1\Task-1\obj\Debug\net5.0\ref\Pharmacy.dll
